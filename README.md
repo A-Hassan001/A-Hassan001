@@ -14,9 +14,9 @@ I'm a **Full-Stack Developer & Data Specialist** passionate about building intel
 
 ## Expertise
 
-- **Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Languages:** Python, SQL
 - **Frameworks & Tools:** Scrapy, Selenium, YOLO (Deep Learning), Google Gemini AI
-- **Specializations:** Web Scraping, Data Extraction, Machine Learning, Automation, ETL Pipelines
+- **Specializations:** Web Scraping, Data Extraction, Automation, ETL Pipelines
 - **Databases & Formats:** CSV, JSON, XLSX, SQL databases
 
 ---
@@ -24,12 +24,11 @@ I'm a **Full-Stack Developer & Data Specialist** passionate about building intel
 ## 🛠 Tech Stack
 
 ```
-Frontend:        HTML, CSS, JavaScript
 Backend:         Python
 Automation:      Scrapy, Selenium, undetected_chromedriver
 AI/ML:           YOLO, Google Gemini
 Data:            Pandas, CSV, JSON, XLSX
-Database:        SQL
+Database:        MySQL, Postgre And Sqlite3
 Tools:           Git, GitHub, Docker
 ```
 
