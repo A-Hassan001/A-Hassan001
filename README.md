@@ -24,9 +24,9 @@ I'm a **Full-Stack Developer & Data Specialist** passionate about building intel
 ## 🛠 Tech Stack
 
 ```
-Backend:         Python
+Backend:         Python (Django)
 Automation:      Scrapy, Selenium, undetected_chromedriver
-AI/ML:           YOLO, Google Gemini
+AI/ML:           YOLO, Google Gemini, Scikit Learn
 Data:            Pandas, CSV, JSON, XLSX
 Database:        MySQL, Postgre And Sqlite3
 Tools:           Git, GitHub, Docker
