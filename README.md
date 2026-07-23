@@ -1,102 +1,171 @@
 # Hi, I'm Ali Hassan 👋
 
-## About Me
+### Python Backend Developer | Web Scraping & Automation Specialist | Data Engineer
 
-I'm a **Full-Stack Developer & Data Specialist** passionate about building intelligent automation solutions and extracting valuable insights from data. With expertise in web scraping, machine learning, and data pipeline engineering, I transform complex data challenges into scalable, production-ready applications. I thrive on solving real-world problems through code and innovation.
+I build **production-ready Python applications, web scraping systems, automation workflows, and data pipelines** that solve real-world business problems.
 
-## What I Do
-
-- **Web Scraping & Automation** – Building robust scrapers and automation workflows using Python, Scrapy, and Selenium
-- **Data Engineering & Processing** – Designing efficient pipelines to extract, transform, and enrich data
-- **Machine Learning & AI** – Implementing ML models (YOLO, Gemini) for intelligent automation and matching
-- **Full-Stack Development** – Creating end-to-end solutions from data collection to visualization
-- **Automation Scripts** – Developing intelligent tools for business process optimization
-
-## Expertise
-
-- **Languages:** Python, SQL
-- **Frameworks & Tools:** Scrapy, Selenium, YOLO (Deep Learning), Google Gemini AI
-- **Specializations:** Web Scraping, Data Extraction, Automation, ETL Pipelines
-- **Databases & Formats:** CSV, JSON, XLSX, SQL databases
+My work focuses on transforming complex data into **structured, reliable, and actionable solutions** — from large-scale web scraping and data extraction to AI-powered product matching and backend application development.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I Do
 
-```
-Backend:         Python (Django)
-Automation:      Scrapy, Selenium, undetected_chromedriver
-AI/ML:           YOLO, Google Gemini, Scikit Learn
-Data:            Pandas, CSV, JSON, XLSX
-Database:        MySQL, Postgre And Sqlite3
-Tools:           Git, GitHub, Docker
-```
+- 🐍 **Python Backend Development** — Building scalable applications and APIs with Django, FastAPI, and Flask
+- 🕷️ **Web Scraping & Automation** — Developing reliable scraping systems using Scrapy, Requests, Selenium, and Playwright
+- 🔄 **Data Engineering & ETL** — Extracting, transforming, cleaning, and enriching large datasets
+- 🤖 **AI & Machine Learning** — Building intelligent automation solutions using YOLO, Google Gemini, and Scikit-learn
+- 🗄️ **Database Development** — Working with PostgreSQL, MySQL, and SQLite
+- 📊 **Data Processing & Visualization** — Creating structured datasets and analytical dashboards
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+### Web Scraping & Automation
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white)
+
+### AI & Machine Learning
+- YOLO
+- Google Gemini
+- Scikit-learn
+- Computer Vision
+- AI-powered data matching
+
+### Databases & Data
+- PostgreSQL
+- MySQL
+- SQLite
+- Pandas
+- CSV
+- JSON
+- XLSX
+
+### Tools
+- Git & GitHub
+- Docker
+- REST APIs
+- Google Workspace Automation
 
 ---
 
 ## 📁 Featured Projects
 
-### 1. **Scrapers** – Production Web Scraping Suite
-A comprehensive collection of **40+ production-ready Python web scrapers** for extracting structured business data, professional directories, and real estate information from diverse international sources.
-- 📍 [View Repository](https://github.com/A-Hassan001/Scrapers)
-- **Tech:** Python, Scrapy, Data Processing
-- **Features:** Clean CSV/JSON exports, international data sources, production-ready
+### 🕷️ [Scrapers](https://github.com/A-Hassan001/Scrapers)
 
-### 2. **WFS AI-Based Product Matching & Web Scraping Pipeline**
-AI-powered pipeline that **matches client product data with scraped catalog data** using Google Gemini. Automatically enriches CSVs with images, variants, specs, and match confidence.
-- 📍 [View Repository](https://github.com/A-Hassan001/WFS-Wholesale-AI-Based-Product-Matching-and-Web-Scraping-Pipeline)
-- **Tech:** Python, Google Gemini, Web Scraping, AI/ML
-- **Features:** Intelligent product matching, data enrichment, confidence scoring
+A collection of **40+ production-ready Python web scrapers** for collecting structured data from business directories, professional platforms, real estate sources, and other international websites.
 
-### 3. **Real Book Detector (YOLO)**
-Machine learning project that **detects whether an image contains a real book, photocopy/PDF, or unknown objects** using YOLO deep learning model.
-- 📍 [View Repository](https://github.com/A-Hassan001/Real-Book-Detector-by-Yolo)
-- **Tech:** Python, YOLO, Deep Learning, Computer Vision
-- **Features:** Real-time object detection, image classification
+**Tech:** Python, Scrapy, Requests, Data Processing
 
-### 4. **Selenium Automation Suite**
-Collection of **Python Selenium automation projects** including Expedia hotel automation, HKJC racing-time scraper, and UK IPO trademarks batch checker with CSV-driven workflows.
-- 📍 [View Repository](https://github.com/A-Hassan001/Selenium)
-- **Tech:** Python, Selenium, undetected_chromedriver, Automation
-- **Features:** Retry/error handling, CSV automation, web scraping workflows
-
-### 5. **Procore Scraper**
-Scrapy-based Python project that **crawls Procore's public network search API** to collect contractor records with pagination, custom headers, and timestamped XLSX exports.
-- 📍 [View Repository](https://github.com/A-Hassan001/Procore-Scraper)
-- **Tech:** Python, Scrapy, Web Scraping
-- **Features:** API crawling, state-based pagination, contractor data extraction
-
-### 6. **Elkar Book Scraper**
-Python application that **automates scraping book information from Elkar website** and sends email notifications with collected data. Simple setup for continuous monitoring and alerts.
-- 📍 [View Repository](https://github.com/A-Hassan001/Elkar-Book-Scraper-and-Send-Email)
-- **Tech:** Python, Web Scraping, Email Automation
-- **Features:** Automated monitoring, email notifications, data collection
-
-### 7. **Analytics Dashboard**
-Interactive **data visualization dashboard** for displaying and analyzing aggregated metrics and insights.
-- 📍 [View Repository](https://github.com/A-Hassan001/Analytics-Dashboard)
-- **Tech:** HTML, CSS, JavaScript
-- **Features:** Data visualization, analytics interface
+**Highlights:**
+- 40+ scraping projects
+- Structured CSV and JSON exports
+- International data sources
+- Reusable scraping patterns
 
 ---
 
-## 📱 Connect With Me
+### 🤖 [WFS AI Product Matching & Web Scraping Pipeline](https://github.com/A-Hassan001/WFS-Wholesale-AI-Based-Product-Matching-and-Web-Scraping-Pipeline)
 
-- **LinkedIn:** [Ali Hassan](https://www.linkedin.com/in/ali-hassan-847933285/) 
-- **GitHub:** [@A-Hassan001](https://github.com/A-Hassan001)
-- **Email:** contact.abhassan@gmail.com
-- **Phone:** +92313 7058036
-- **Whatsapp:** +92313 7058036
+An AI-powered data pipeline that matches client product data with scraped catalog data using **Google Gemini**.
 
----
+**Tech:** Python, Google Gemini, Web Scraping, AI/ML
 
-## 🎯 What I'm Looking For
-
-- Opportunities to work on **data engineering & automation projects**
-- Collaborations involving **web scraping, AI/ML, and data pipelines**
-- Roles in **full-stack development** with a focus on backend automation
-- Projects that solve **real-world business problems** at scale
+**Highlights:**
+- AI-powered product matching
+- Image and product data enrichment
+- Variant and specification extraction
+- Match confidence scoring
+- Automated CSV processing
 
 ---
 
-**Let's build something amazing together!** Feel free to reach out via LinkedIn, Email, Whatsapp or explore my projects above.
+### 📚 [Real Book Detector](https://github.com/A-Hassan001/Real-Book-Detector-by-Yolo)
+
+A computer vision project that detects whether an image contains a **real book, photocopy/PDF, or unknown object** using a YOLO deep learning model.
+
+**Tech:** Python, YOLO, Deep Learning, Computer Vision
+
+---
+
+### ⚙️ [Selenium Automation Suite](https://github.com/A-Hassan001/Selenium)
+
+A collection of Selenium automation projects, including:
+
+- Expedia hotel automation
+- HKJC racing-time scraper
+- UK IPO trademarks batch checker
+- CSV-driven automation workflows
+
+**Tech:** Python, Selenium, undetected_chromedriver
+
+---
+
+### 🏗️ [Procore Scraper](https://github.com/A-Hassan001/Procore-Scraper)
+
+A Scrapy-based scraper that collects contractor records from a public network search API with pagination and structured XLSX export functionality.
+
+**Tech:** Python, Scrapy, API Integration, XLSX
+
+---
+
+### 📖 [Elkar Book Scraper](https://github.com/A-Hassan001/Elkar-Book-Scraper-and-Send-Email)
+
+A Python automation tool that collects book information and sends email notifications with the extracted data.
+
+**Tech:** Python, Web Scraping, Email Automation
+
+---
+
+### 📊 [Analytics Dashboard](https://github.com/A-Hassan001/Analytics-Dashboard)
+
+An interactive dashboard for visualizing and analyzing aggregated data and metrics.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-Hassan001&show_icons=true&theme=default" alt="Ali Hassan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Hassan001" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn:** [Ali Hassan](https://www.linkedin.com/in/ali-hassan-847933285/)
+- 🐙 **GitHub:** [@A-Hassan001](https://github.com/A-Hassan001)
+- 📧 **Email:** contact.abhassan@gmail.com
+
+---
+
+## 🎯 Open To
+
+- Python backend development opportunities
+- Web scraping and automation projects
+- Data engineering and ETL solutions
+- AI/ML automation projects
+- Full-stack applications with Python backends
+- Freelance and long-term collaborations
+
+---
+
+## 💡 My Goal
+
+> Build reliable software, automate repetitive processes, and turn complex data into useful solutions.
+
+### Let's build something valuable together! 🚀
