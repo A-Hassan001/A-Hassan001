@@ -144,7 +144,7 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-Hassan001&show_icons=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-Hassan001&show_icons=true&theme=tokyonight"
     alt="Ali Hassan's GitHub Stats"
   />
 </p>
