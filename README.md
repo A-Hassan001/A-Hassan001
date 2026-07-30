@@ -151,7 +151,7 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=A-Hassan001"
+    src="https://streak-stats.demolab.com/?user=A-Hassan001&theme=tokyonight"
     alt="Ali Hassan's GitHub Streak"
   />
 </p>
