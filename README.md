@@ -39,7 +39,6 @@ My work focuses on transforming complex data into **structured, reliable, and ac
 ![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=flat)
 ![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![AI Data Matching](https://img.shields.io/badge/AI-Data--Matching-9C27B0?style=flat)
 
 ---
 
