@@ -150,8 +150,8 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=A-Hassan001&theme=tokyonight&v=2"
-    alt="Ali Hassan's GitHub Streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=A-Hassan001&theme=tokyo-night"
+    alt="GitHub Activity Graph"
   />
 </p>
 
