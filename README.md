@@ -150,7 +150,7 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=A-Hassan001"
+    src="https://streak-stats.demolab.com?user=A-Hassan001&theme=tokyonight&hide_border=true"
     alt="Ali Hassan's GitHub Streak"
   />
 </p>
