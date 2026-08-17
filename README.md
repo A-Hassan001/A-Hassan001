@@ -1,6 +1,6 @@
 # Hi, I'm Ali Hassan 👋
 
-### Python Backend Developer | Web Scraping & Automation Specialist | Data Engineer
+### Python Backend Developer | Web Scraping & Automation Specialist | Data Engineer | Data Analyst
 
 I build **production-ready Python applications, web scraping systems, automation workflows, and data pipelines** that solve real-world business problems.
 
@@ -13,9 +13,10 @@ My work focuses on transforming complex data into **structured, reliable, and ac
 - **Python Backend Development** — Building scalable applications and APIs with Django.
 - **Web Scraping & Automation** — Developing reliable scraping systems using Scrapy, Requests, Selenium, and Playwright
 - **Data Engineering & ETL** — Extracting, transforming, cleaning, and enriching large datasets
+- **Data Processing** — Creating structured datasets and analytical dashboards
+- **Data Analysis & Visualization** — Analyzing datasets, identifying trends and insights, and creating analytical dashboards and reports.
 - **AI & Machine Learning** — Building intelligent automation solutions using YOLO, Google Gemini, and Scikit-learn
 - **Database Development** — Working with PostgreSQL, MySQL, and SQLite
-- **Data Processing & Visualization** — Creating structured datasets and analytical dashboards
 
 ---
 
