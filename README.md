@@ -79,20 +79,6 @@ A collection of **40+ production-ready Python web scrapers** for collecting stru
 - Reusable scraping patterns
 
 ---
-### [Student Performance Analysis](https://github.com/A-Hassan001/Student-Performance-Analysis)
-
-A data analysis project that analyzes **student performance data** to identify patterns, relationships, and key factors affecting academic outcomes.
-
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Data Analysis
-
-**Highlights:**
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Performance pattern and trend analysis
-- Statistical insights and correlation analysis
-- Data visualization and reporting
-
----
 
 ### [WFS AI Product Matching & Web Scraping Pipeline](https://github.com/A-Hassan001/WFS-Wholesale-AI-Based-Product-Matching-and-Web-Scraping-Pipeline)
 
@@ -130,19 +116,33 @@ A collection of Selenium automation projects, including:
 
 ---
 
-### [Procore Scraper](https://github.com/A-Hassan001/Procore-Scraper)
+### [Student Performance Analysis](https://github.com/A-Hassan001/Student-Performance-Analysis)
 
-A Scrapy-based scraper that collects contractor records from a public network search API with pagination and structured XLSX export functionality.
+A data analysis project that analyzes **student performance data** to identify patterns, relationships, and key factors affecting academic outcomes.
 
-**Tech:** Python, Scrapy, API Integration, XLSX
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Data Analysis
+
+**Highlights:**
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Performance pattern and trend analysis
+- Statistical insights and correlation analysis
+- Data visualization and reporting
 
 ---
+
 
 ### [Elkar Book Scraper](https://github.com/A-Hassan001/Elkar-Book-Scraper-and-Send-Email)
 
 A Python automation tool that collects book information and sends email notifications with the extracted data.
 
 **Tech:** Python, Web Scraping, Email Automation
+
+### [Procore Scraper](https://github.com/A-Hassan001/Procore-Scraper)
+
+A Scrapy-based scraper that collects contractor records from a public network search API with pagination and structured XLSX export functionality.
+
+**Tech:** Python, Scrapy, API Integration, XLSX
 
 ---
 
