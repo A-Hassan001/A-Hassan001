@@ -158,15 +158,15 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-Hassan001&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-Hassan001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="Ali Hassan's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=A-Hassan001&theme=tokyo-night"
-    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=A-Hassan001&theme=tokyo-night&hide_border=true&area=true"
+    alt="Ali Hassan's GitHub Activity Graph"
   />
 </p>
 
