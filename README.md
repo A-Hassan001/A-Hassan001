@@ -138,6 +138,25 @@ A Python automation tool that collects book information and sends email notifica
 
 **Tech:** Python, Web Scraping, Email Automation
 
+---
+
+### [New Mexico Enterprise Business Scraper](https://github.com/A-Hassan001/New-Mexico-Enterprise-Business-Scraper)
+
+The `nm_enterprise` spider retrieves business records from the New Mexico Secretary of State Enterprise API and extracts detailed information for each matching entity.
+
+The spider supports:
+
+* Search by business name or configured search values.
+* Entity type and status filtering.
+* Start and end date filtering.
+* CSV, XLS, XLSX, and TXT input files.
+* Business detail extraction.
+* Automatic CSV export.
+
+**Tech:** Python, Scrapy, REST API, Pandas, JSON, CSV/XLS/XLSX/TXT
+
+---
+
 ### [Procore Scraper](https://github.com/A-Hassan001/Procore-Scraper)
 
 A Scrapy-based scraper that collects contractor records from a public network search API with pagination and structured XLSX export functionality.
