@@ -102,6 +102,26 @@ A computer vision project that detects whether an image contains a **real book, 
 **Tech:** Python, YOLO, Deep Learning, Computer Vision
 
 ---
+### [PySQL Mentor — RAG Learning Assistant](https://github.com/A-Hassan001/PySQL-Mentor-RAG)
+
+An AI-powered **Retrieval-Augmented Generation (RAG) learning assistant** for Python, SQL Server, MySQL, and PostgreSQL. PySQL Mentor lets users upload their own study materials and provides grounded answers with source citations instead of relying only on the LLM's general knowledge.
+
+**Tech:** Python, RAG, LLM, SQL, PostgreSQL, MySQL, SQL Server, AI
+
+**Highlights:**
+
+* AI mentor for Python and SQL learning
+* Upload PDF, TXT, Markdown, DOCX, `.sql`, and `.py` study materials
+* Retrieval-grounded answers with source citations
+* SQL dialect selector for PostgreSQL, MySQL, and SQL Server
+* SQL query generation, debugging, and explanation
+* Python code explanation and debugging
+* Interview Mode with generated questions and answer scoring
+* Practice Mode with topic and difficulty-based exercises
+* Learning progress tracking
+* Conversation memory and transparent retrieved-context viewing
+
+---
 
 ### [Selenium Automation Suite](https://github.com/A-Hassan001/Selenium)
 
