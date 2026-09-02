@@ -136,6 +136,24 @@ A collection of Selenium automation projects, including:
 
 ---
 
+### [E-Commerce Sales Data Science & Machine Learning Workflow](https://github.com/A-Hassan001/ecommerce-data-science-workflow)
+
+An end-to-end data science project for analyzing e-commerce sales data, generating business insights, and building a machine learning model to predict delivery time.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning
+
+**Highlights:**
+
+* Data preprocessing and quality validation
+* Exploratory data analysis and visualization
+* Feature engineering and business insights
+* Category, regional, payment, and sales analysis
+* Machine learning model selection and comparison
+* Delivery time prediction
+* Model evaluation using MAE, RMSE, and R²
+* Deployment-ready ML pipeline
+---
+
 ### [Student Performance Analysis](https://github.com/A-Hassan001/Student-Performance-Analysis)
 
 A data analysis project that analyzes **student performance data** to identify patterns, relationships, and key factors affecting academic outcomes.
