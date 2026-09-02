@@ -197,14 +197,14 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=A-Hassan001&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=A-Hassan001&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Ali Hassan's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=A-Hassan001&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hassan001&theme=tokyonight"
     alt="Ali Hassan's GitHub Activity Graph"
   />
 </p>
