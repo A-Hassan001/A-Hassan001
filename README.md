@@ -196,10 +196,8 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=A-Hassan001&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Ali Hassan's GitHub Stats"
-  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=A-Hassan001&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Ali Hassan's GitHub Stats"/>
 </p>
 
 <p align="center">
