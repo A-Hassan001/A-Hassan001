@@ -95,6 +95,31 @@ An AI-powered data pipeline that matches client product data with scraped catalo
 
 ---
 
+## 📚 Book Scraper & Analytics Dashboard
+
+A full-stack web application that scrapes book listings from Vinted and Wallapop and provides an interactive dashboard for searching, filtering, and analyzing marketplace data.
+
+### Key Features
+
+* Multi-marketplace web scraping using Scrapy
+* Data processing and storage with PostgreSQL
+* Django and Django REST Framework backend
+* Search, filtering, and interest tracking
+* Interactive market analytics
+* User authentication
+* Responsive web interface
+* Deployed on Railway Server
+
+### Tech Stack
+
+Python, Scrapy, Django, Django REST Framework, PostgreSQL, SQLAlchemy, Requests, JavaScript, Railway
+
+### Role
+
+Python Developer — Developed scraping pipelines, backend APIs, data processing workflows, database integration, and deployment configuration.
+
+---
+
 ### [Real Book Detector](https://github.com/A-Hassan001/Real-Book-Detector-by-Yolo)
 
 A computer vision project that detects whether an image contains a **real book, photocopy/PDF, or unknown object** using a YOLO deep learning model.
