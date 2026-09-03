@@ -99,7 +99,7 @@ An AI-powered data pipeline that matches client product data with scraped catalo
 
 A full-stack web application that scrapes book listings from Vinted and Wallapop and provides an interactive dashboard for searching, filtering, and analyzing marketplace data.
 
-### Key Features
+**Highlights:**
 
 * Multi-marketplace web scraping using Scrapy
 * Data processing and storage with PostgreSQL
@@ -110,11 +110,11 @@ A full-stack web application that scrapes book listings from Vinted and Wallapop
 * Responsive web interface
 * Deployed on Railway Server
 
-### Tech Stack
+**Tech Stack:**
 
 Python, Scrapy, Django, Django REST Framework, PostgreSQL, SQLAlchemy, Requests, JavaScript, Railway
 
-### Role
+**Role:**
 
 Python Developer — Developed scraping pipelines, backend APIs, data processing workflows, database integration, and deployment configuration.
 
