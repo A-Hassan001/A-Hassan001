@@ -236,7 +236,7 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 
 ---
 
-## <center>My GitHub Contribution Heatmap
+## <center>My GitHub Contribution Heatmap</center>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=A-Hassan001&show_icons=true&theme=tokyonight&hide_border=true"
