@@ -244,7 +244,7 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Hassan001&theme=tokyonight&hide_border=true" alt="Ali Hassan's Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hassan001&theme=tokyonight&utcOffset=%2B05:00" alt="Ali Hassan's GitHub Activity Graph" />
 </p>
 
 
