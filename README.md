@@ -243,14 +243,9 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
     alt="Ali Hassan's GitHub Stats"/>
 </p> -->
 
-<br>
-<div align="center">
-  <!-- <h3>My GitHub Contribution Heatmap</h3> -->
-  <p><i>A visual map of my daily coding activity and open-source commits over the past year.</i></p>
-  
-  <img src="https://ghchart.rshah.org/A-Hassan001" alt="Ali Hassan's GitHub Contribution Chart" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Hassan001&theme=tokyonight&hide_border=true" alt="Ali Hassan's Contribution Graph" />
+</p>
 
 
 ---
