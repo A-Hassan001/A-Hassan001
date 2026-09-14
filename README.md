@@ -243,8 +243,9 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
     alt="Ali Hassan's GitHub Stats"/>
 </p> -->
 
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-Hassan001&theme=tokyonight&show_icons=true&hide_border=true" alt="Ali Hassan's GitHub Stats" />
+  <img src="https://ghchart.rshah.org/A-Hassan001" alt="Ali Hassan's GitHub Contribution Chart" />
 </p>
 
 
