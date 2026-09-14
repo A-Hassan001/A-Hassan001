@@ -236,7 +236,7 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 
 ---
 
-## GitHub Activity
+## <center>My GitHub Contribution Heatmap
 
 <!-- <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=A-Hassan001&show_icons=true&theme=tokyonight&hide_border=true"
@@ -245,12 +245,11 @@ An interactive dashboard for visualizing and analyzing aggregated data and metri
 
 
 <div align="center">
-  <h3>My GitHub Contribution Heatmap</h3>
+  <!-- <h3>My GitHub Contribution Heatmap</h3> -->
   <p><i>A visual map of my daily coding activity and open-source commits over the past year.</i></p>
   
   <img src="https://ghchart.rshah.org/A-Hassan001" alt="Ali Hassan's GitHub Contribution Chart" width="100%" />
 
-  <p><sub><b>Less Activity</b> ⬜ 🟨 🟩 🟩 🟩 <b>More Activity</b></sub></p>
 </div>
 
 
